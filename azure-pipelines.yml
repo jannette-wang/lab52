@@ -19,3 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 
 - script: cat file1
+  displayName: output Github file contents
+  
